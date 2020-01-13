@@ -1,3 +1,5 @@
+# Name: Haley Liang
+
 # Tentative Schedule 
 
 Week | Assignment | 
