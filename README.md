@@ -3,7 +3,7 @@
 # Tentative Schedule 
 
 Week | Assignment | 
------|------------|
+----|------------|
 1 | Project planning and setup (github, irb certification) 
 2 | Literature review and research 
 3 | Research question and design problem statement
